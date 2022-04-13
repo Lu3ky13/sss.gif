@@ -1,2 +1,1 @@
-# sss.gif
-wefwef
+XSS IN GIF 
